@@ -1,4 +1,4 @@
-# flutter_textfield_formatter
+# Flutter TextField Formatter
 
 A new Flutter project.
 
