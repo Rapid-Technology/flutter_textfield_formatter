@@ -1,6 +1,6 @@
 # Flutter TextField Formatter
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/G6gFh3tPwC4/maxresdefault.jpg)](https://www.youtube.com/watch?v=G6gFh3tPwC4)
 
 ## Getting Started
 
